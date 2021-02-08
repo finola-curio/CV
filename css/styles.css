@@ -1,0 +1,20 @@
+body {
+  background-color: #FFC0CB;
+  font-family: Roboto Mono, monospace;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #f7f7e8;
+  border-width: 5px;
+  width: 70%;
+}
+
+h1 {
+  color: #425c44;
+}
+
+h2 {
+  color: #e32b72;
+  text-transform: uppercase;
+}
